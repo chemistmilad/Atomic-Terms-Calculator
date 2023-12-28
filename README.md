@@ -1,5 +1,5 @@
 # Atomic-Terms-Calculator
-Calculating microstates and atomic terms using given electron configuration
+Calculating microstates and atomic terms using given electron configuration based on Russell-Saunders coupling scheme.
 
 Guess everything is clear based on the programs own instructions!
 
